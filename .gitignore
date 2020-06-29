@@ -1,0 +1,7 @@
+# Project exclude paths
+/account/target/
+/business/target/
+/order/target/
+/storage/target/
+.idea
+*.iml
